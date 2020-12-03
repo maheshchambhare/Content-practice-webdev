@@ -1,0 +1,31 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    background-color: #131313;
+}
+
+.container {
+    display: grid;
+    grid-template: none;
+    flex-basis: 300px;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+    color: #fff;
+}
+
+.content-1 {
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid #fff;
+}
+.content-2 {
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid red;
+}
+.content-3 {
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid red;
+}
